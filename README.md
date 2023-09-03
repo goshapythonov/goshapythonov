@@ -1,2 +1,2 @@
-## Hi there, I'm George 👋
+## Hello, my name is George 👋
 ### Backend Developer
